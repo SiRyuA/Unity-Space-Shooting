@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sources\WeaponController.cs">
+    <Files>
+      <File FileName="Assets\Sources\DestroyByContact.cs" Line="23" Column="4" />
+      <File FileName="Assets\Sources\RamdomRotator.cs" Line="10" Column="59" />
+      <File FileName="Assets\Sources\PlayerController.cs" Line="24" Column="23" />
+      <File FileName="Assets\Sources\Mover.cs" Line="7" Column="28" />
+      <File FileName="Assets\Sources\WeaponController.cs" Line="8" Column="2" />
+      <File FileName="Assets\Sources\GameController.cs" Line="27" Column="15" />
+      <File FileName="Assets\Sources\DestroyByOther.cs" Line="14" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
